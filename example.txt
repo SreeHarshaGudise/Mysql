@@ -1,2 +1,3 @@
 this is sample text file after placing a clone command over git
+hi dude
 
